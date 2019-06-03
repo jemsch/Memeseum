@@ -1,0 +1,36 @@
+body {
+    background-image: url("assets/cave.png");
+
+}
+  .card-text-container {
+      background-image:url("assets/plaque-rock.png");
+      width: auto;
+      background-size: 100% 100%;
+      background-repeat:   no-repeat;
+      background-position: center center; 
+
+  }
+
+  .card-text {
+    text-align: center;
+    padding: 35px;
+}
+p {
+    font-family: 'ZCOOL KuaiLe', arial;
+
+}
+  
+  
+  .card-image-container {
+    background-image:url("assets/mud.png");
+    width: auto;
+    background-size: 100% 100%;
+        background-repeat:   no-repeat;
+    background-position: center center; 
+  }
+
+  .card-image {
+    background-image:url("assets/100.png");
+    background-repeat:   no-repeat;
+    background-position: center center; 
+  }

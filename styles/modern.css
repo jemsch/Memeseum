@@ -1,21 +1,13 @@
 body {
-    background-image: url("grey-wall.png");
-
+    background-image: url("modern-wall.png");
 }
 
-.card {
-    transition: 0.3s;
-    margin: 30px;
-    margin-top: 0px;
-  }
-
   .card-text-container {
-      background-image:url("plaque.png");
+      background-image:url("assets/plaque-gold.png");
       width: auto;
       background-size: 100% 100%;
-
         background-repeat:   no-repeat;
-    background-position: center center; 
+        background-position: center center; 
 
   }
 
@@ -23,10 +15,13 @@ body {
     text-align: center;
     padding: 35px;
 }
+p {
+  font-family: 'Libre Baskerville', serif;
+}
   
   
   .card-image-container {
-    background-image:url("Untitled.png");
+    background-image:url("assets/Untitled.png");
     width: auto;
     background-size: 100% 100%;
         background-repeat:   no-repeat;
@@ -34,21 +29,7 @@ body {
   }
 
   .card-image {
-    background-image:url("100.png");
+    background-image:url("assets/100.png");
     background-repeat:   no-repeat;
     background-position: center center; 
-  }
-
-  .image {
-    width: 69%;
-    height: auto;
-    margin: 65px;
-  }
-
-  .columns {
-    float: left;
-    width: 33.3%;
-    padding: 8px;
-    
-
   }
