@@ -21,13 +21,13 @@ p {
 }
   
   
-  .card-image-container {
-    background-image:url("assets/Untitled.png");
-    width: auto;
-    background-size: 100% 100%;
-        background-repeat:   no-repeat;
-    background-position: center center; 
-  }
+.card-image-container {
+  background-image:url("assets/frame.png");
+  width: auto;
+  background-size: 100% 100%;
+  background-repeat:   no-repeat;
+  background-position: center center; 
+}
 
   .card-image {
     background-image:url("assets/100.png");

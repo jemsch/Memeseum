@@ -1,13 +1,14 @@
 body {
-    background-image: url("modern-wall.png");
-}
+    background-image: url("assets/grey-wall.png");
 
+}
   .card-text-container {
       background-image:url("assets/plaque-gold.png");
       width: auto;
       background-size: 100% 100%;
+
         background-repeat:   no-repeat;
-        background-position: center center; 
+    background-position: center center; 
 
   }
 
@@ -15,13 +16,13 @@ body {
     text-align: center;
     padding: 35px;
 }
-p {
+p, h3{
   font-family: 'Libre Baskerville', serif;
 }
   
   
   .card-image-container {
-    background-image:url("assets/Untitled.png");
+    background-image:url("assets/frame.png");
     width: auto;
     background-size: 100% 100%;
         background-repeat:   no-repeat;

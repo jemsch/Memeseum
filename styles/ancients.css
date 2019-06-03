@@ -15,7 +15,7 @@ body {
     text-align: center;
     padding: 35px;
 }
-p {
+p, h3 {
     font-family: 'ZCOOL KuaiLe', arial;
 
 }
