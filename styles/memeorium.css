@@ -1,9 +1,9 @@
 body {
-    background-image: url("assets/graveyard.png");
+    background-image: url("assets/field.jpg");
 
 }
   .card-text-container {
-      background-image:url("assets/plaque-gold.png");
+      background-image:url("assets/plaque-grave.png");
       width: auto;
       background-size: 100% 100%;
 
@@ -17,13 +17,14 @@ body {
     padding: 35px;
 }
 p, h3 {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Quattrocento', serif;
+  color: #fef2e2;
 }
   
   
 .card-image-container {
-  background-image:url("assets/frame.png");
-  width: auto;
+  background-image:url("assets/gravestone.png");
+  width: fit;
   background-size: 100% 100%;
   background-repeat:   no-repeat;
   background-position: center center; 
