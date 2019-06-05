@@ -1,0 +1,37 @@
+body {
+    background-image: url("assets/spongebob.jpg");
+
+}
+  .card-text-container {
+      background-image:url("assets/plaque-spongebob.png");
+      width: auto;
+      background-size: 100% 100%;
+      background-repeat:   no-repeat;
+      background-position: center center; 
+
+  }
+
+  .card-text {
+    text-align: center;
+    padding: 30px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+p, h3 {
+  font-family: 'Slackey', sans-serif;
+}
+  
+  
+  .card-image-container {
+    background-image:url("assets/pineapple.png");
+    width: auto;
+    background-size: 100% 100%;
+        background-repeat:   no-repeat;
+    background-position: center center; 
+  }
+
+  .card-image {
+    background-image:url("assets/100.png");
+    background-repeat:   no-repeat;
+    background-position: center center; 
+  }
